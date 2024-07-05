@@ -1,0 +1,79 @@
+.airport-path {
+  font-size: 16px;
+  color: #464646;
+  font-weight: 400;
+  padding-left: 30px;
+}
+span {
+  color: #222222;
+  font-size: 16px;
+  font-weight: 600;
+}
+.airport-head {
+  padding-left: 30px;
+}
+hr {
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.tabs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  margin: 0px;
+  padding-left: 30px;
+}
+.card {
+  border-style: solid;
+  border-width: 1px;
+  width: 280px;
+  height: 104px;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+.terminal-img {
+  height: 104px;
+  width: 104px;
+}
+.card div {
+  text-align: center;
+}
+.card div h1 {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.card-cont {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.add-ter {
+  width: 121px;
+  height: 32px;
+  padding: 6px 17px 7px 17px;
+  gap: 8px;
+  border-radius: 50px;
+  border-width: 2px;
+  cursor: pointer;
+}
+.card-but {
+  display: flex;
+  flex-direction: column;
+  height: 212px;
+  width: 464px;
+  background-color: #fff;
+  padding: 10px;
+}
+.title {
+  border-width: 0px;
+  background-color: transparent;
+}
+.desc {
+  border-width: 0px;
+  background-color: transparent;
+}

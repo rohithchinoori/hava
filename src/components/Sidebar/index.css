@@ -1,0 +1,42 @@
+.side {
+  box-shadow: 0px 1px 4px 0px #00000026;
+  width: 272px;
+  height: 100vh;
+  padding: 20px, 10px, 10px, 10px;
+}
+.first {
+  width: 240px;
+  height: 68px;
+}
+.side-ele {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.second {
+  width: 240px;
+  height: 102px;
+  margin-top: 50px;
+}
+ul {
+  list-style: none;
+}
+.second li {
+  padding: 7px, 12px, 8px, 12px;
+  width: 240px;
+  height: 34px;
+}
+.service {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 600;
+}
+.third {
+  width: 240px;
+  height: 136px;
+}
+.third li {
+  padding: 7px, 12px, 8px, 12px;
+  width: 240px;
+  height: 34px;
+}

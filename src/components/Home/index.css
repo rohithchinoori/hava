@@ -1,0 +1,60 @@
+.home-bg {
+  display: flex;
+}
+.right {
+  width: 100vw;
+}
+.home-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  padding-left: 40px;
+  padding-right: 10px;
+}
+.add {
+  background-color: #000000;
+  color: #fff;
+  height: 32px;
+  width: 92px;
+  border-radius: 50px;
+  border-width: 0px;
+}
+
+.airport-list li {
+  display: flex;
+  align-items: center;
+}
+.check {
+  display: flex;
+  align-items: center;
+  width: 800px;
+}
+.country {
+  width: 161px;
+}
+.code {
+  width: 95px;
+}
+.terminal {
+  width: 95px;
+}
+.edit {
+  width: 32px;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.delete {
+  width: 32px;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.checkbox {
+  margin-top: 10px;
+  height: 14px;
+  width: 14px;
+}
